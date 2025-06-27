@@ -1,7 +1,7 @@
 ¿Qué hace este programa?
 
 - solicita al usuario que ingrese varias numeros
-- calcula el promedio de esas calificaciones
+- calcula el promedio de esos numeros ingresados
 - muestra el resultado final.
 
  ¿Cómo funciona paso a paso?
@@ -18,17 +18,17 @@ Ciclo de ingreso de datos:
 
  - Se repite un número determinado de veces.
 
- - En cada repetición, se pide una calificación.
+ - En cada repetición, se pide  que se ingrese un numero.
 
- - Se suma cada calificación a un acumulador.
+ - Se suma cada numero ingresado a un acumulador.
 
- - El cliclo se cierra al ingresar un numero negativo
+ - El ciclo se cierra al ingresar un numero negativo
 
 
 
 Cálculo del promedio:
 
-Se divide la suma total de calificaciones entre la cantidad de notas ingresadas.
+Se divide la suma total de los numeros entre la cantidad de numeros ingresados.
 
 Muestra el resultado final:
 
